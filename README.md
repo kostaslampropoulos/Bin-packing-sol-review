@@ -22,7 +22,7 @@ After creating all the test files, we run each txt file through the Greedy.java 
 When we finish going through each txt file, we put all our recorded results into a txt file named “results”. Lastly we calculate the average disks used for each number of folders (N) for both the random and sorted algorithms.
 We run the algorithm multiple times and the results were always the same: The sorted algorithm uses significantly less disks than the random algorithm. We also noticed that when the number of folders (N) is larger, the difference between the two algorithms is more noticeable.
 
-# Below we present one of the tests we run using random values of N:
+### Below we present one of the tests we run using random values of N:
 
 **For N = 925:**
 
