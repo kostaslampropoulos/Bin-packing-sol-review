@@ -25,13 +25,13 @@ We run the algorithm multiple times and the results were always the same: The so
 #Below we present one of the tests we run using random values of N:
 
 **For N = 925:**
-The average amount of disks used without sorting is: 543,969971
-The average amount of disks used with sorting is: 472,519989 
+The average amount of disks used without sorting is: 543,969971.
+The average amount of disks used with sorting is: 472,519989. 
 
 **For N = 499:**
-The average amount of disks used without sorting is: 294,809998
-The average amount of disks used with sorting is: 257,429993 
+The average amount of disks used without sorting is: 294,809998.
+The average amount of disks used with sorting is: 257,429993.
 
 **For N = 123:**
-The average amount of disks used without sorting is: 72,449997
-The average amount of disks used with sorting is: 64,239998
+The average amount of disks used without sorting is: 72,449997.
+The average amount of disks used with sorting is: 64,239998.
