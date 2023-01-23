@@ -1,4 +1,5 @@
 # This is an approach of the bin packing problem while testing 2 different methods of solving it!
+(in this project we use disks to reprresent the bins and files fo the data to store in them)
 ## Part A: MaxPQ.java
 
 We used the priority queue that was presented in class but adjusted it accordingly to use the class “Disks” instead of just Integers. The main difference between the PQ that was presented to us and the PQ we use is inside the “less” method where instead of comparing two “nodes” from the queue, we compare the available free space of the nodes (Disks). The methods “exch”,”swim”,”sink”,etc. remain the same. We also added two new methods, the “root” method which returns the top of the queue (the disk with the largest available space) and the “leaf” method which returns the position of the newest addition to the queue (the newest disk’s place).
