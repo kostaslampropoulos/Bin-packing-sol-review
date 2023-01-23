@@ -29,7 +29,7 @@ The average amount of disks used without sorting is: 543,969971.
 The average amount of disks used with sorting is: 472,519989. 
 
 **For N = 499:**
-The average amount of disks used without sorting is: 294,809998.
+The average amount of disks used without sorting is: 294,809998.<br />
 The average amount of disks used with sorting is: 257,429993.
 
 **For N = 123:**
