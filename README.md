@@ -1,4 +1,4 @@
-# approach-to-the-bin-packing-problem-with-Disks
+This is an approach tot the bin packing problem using while testing 2 different methods
 
 ## Part A: MaxPQ.java
 
