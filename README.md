@@ -1,4 +1,4 @@
-# This is an approach of the bin packing problem while testing 2 different methods of solving it!
+# This is an approach to the bin packing problem while testing 2 different methods of solving it!
 **In this project we use disks to reprresent the bins and files for the data to store in the bins**
 ## Part A: MaxPQ.java
 
